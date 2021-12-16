@@ -1,6 +1,6 @@
 #include "header/inputHandler.h"
 
-const int VERTICAL_MAX = 40;
+const int VERTICAL_MAX = 400;
 
 Point3D InputHandler::initialMiddleClickPosition;
 float InputHandler::previousMiddleClickPosition[2];
