@@ -1,7 +1,7 @@
 # Brick-Builder
 LEGO Style 3D Brick editor 
 
-
+![Screenshot1](https://user-images.githubusercontent.com/23744162/146424235-4c6b38d0-9ff7-45b7-aee3-2c161b6a0653.png)
 
 Eitan Yehuda
 Thomas Britnell
